@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>אתר הכרויות</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f0f0;
+  }
+  .entry {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    overflow: hidden;
+  }
+  .entry .number {
+    font-weight: bold;
+  }
+  .entry .site {
+    margin-left: 10px;
+  }
+  .entry .description {
+    margin-left: 20px;
+    color: #666;
+  }
+</style>
+</head>
+<body>
+<h1>אתר הכרויות</h1>
+
+<div class="entry">
+  <span class="number">1.</span>
+  <a class="site" href="https://www.example.com">שם האתר הראשון</a>
+  <span class="description">תיאור של שם האתר הראשון.</span>
+</div>
+
+<div class="entry">
+  <span class="number">2.</span>
+  <a class="site" href="https://www.example.com">שם האתר השני</a>
+  <span class="description">תיאור של שם האתר השני.</span>
+</div>
+
+<div class="entry">
+  <span class="number">3.</span>
+  <a class="site" href="https://www.example.com">שם האתר השלישי</a>
+  <span class="description">תיאור של שם האתר השלישי.</span>
+</div>
+
+<div class="entry">
+  <span class="number">4.</span>
+  <a class="site" href="https://www.example.com">שם האתר הרביעי</a>
+  <span class="description">תיאור של שם האתר הרביעי.</span>
+</div>
+
+<div class="entry">
+  <span class="number">5.</span>
+  <a class="site" href="https://www.example.com">שם האתר החמישי</a>
+  <span class="description">תיאור של שם האתר החמישי.</span>
+</div>
+
+<div class="entry">
+  <span class="number">6.</span>
+  <a class="site" href="https://www.example.com">שם האתר השישי</a>
+  <span class="description">תיאור של שם האתר השישי.</span>
+</div>
+
+<div class="entry">
+  <span class="number">7.</span>
+  <a class="site" href="https://www.example.com">שם האתר השביעי</a>
+  <span class="description">תיאור של שם האתר השביעי.</span>
+</div>
+
+<div class="entry">
+  <span class="number">8.</span>
+  <a class="site" href="https://www.example.com">שם האתר השמיני</a>
+  <span class="description">תיאור של שם האתר השמיני.</span>
+</div>
+
+<div class="entry">
+  <span class="number">9.</span>
+  <a class="site" href="https://www.example.com">שם האתר התשיעי</a>
+  <span class="description">תיאור של שם האתר התשיעי.</span>
+</div>
+
+<div class="entry">
+  <span class="number">10.</span>
+  <a class="site" href="https://www.example.com">שם האתר העשירי</a>
+  <span class="description">תיאור של שם האתר העשירי.</span>
+</div>
+
+</body>
+</html>
